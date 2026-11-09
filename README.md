@@ -20,6 +20,6 @@ An archived Google Data Analytics capstone notebook containing R analysis.
 
 A movie analysis project involving data visualization and analysis.
 
-[Read the original project report](https://github.com/sibala25/sibala25.github.io/blob/main/06_2024_MovieAnalysis.pdf). The PDF is still in the older portfolio repository and has not yet been copied here.
+[Read the original project report](06_2024_MovieAnalysis.pdf).
 
 These are archived student and project materials, preserved without changes to the original reports or notebook.
